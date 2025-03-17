@@ -387,7 +387,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 .block-about-1.bg-white .container-video a span
 {
     color: #fff !important;
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-about-1.bg-white .container-video:hover a
@@ -419,7 +419,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 .block-about-1.bg-black .container-video a span
 {
     color: #fff;
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-about-1.bg-black .container-video a span:after
@@ -570,7 +570,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-service-1.bg-white .tab-navigation li.active a span
 {
-    color: #af997f;
+    color: #1b1146;
 }
 
 .block-service-1.bg-white .tab-content p
@@ -595,7 +595,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-service-1.bg-black .tab-navigation li.active a span
 {
-    color: #af997f;
+    color: #1b1146;
 }
 
 .block-service-1.bg-black .tab-content p
@@ -777,7 +777,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-work-1.bg-white .work-grid a .cbp-caption-activeWrap
 {
-    background-color: rgb(176,153,128);
+    background-color: #1b1146;
 }
 
 .block-work-1.bg-white .work-grid a .cbp-caption-activeWrap h5
@@ -797,7 +797,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-work-1.bg-white .load-more:before
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-work-1.bg-white .load-more:hover:before
@@ -822,7 +822,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-work-1.bg-black .work-grid a .cbp-caption-activeWrap
 {
-    background-color: rgb(176,153,128);
+    background-color: #1b1146;
 }
 
 .block-work-1.bg-black .work-grid a .cbp-caption-activeWrap h5
@@ -842,7 +842,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-work-1.bg-black .load-more:before
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-work-1.bg-black .load-more:hover:before
@@ -965,7 +965,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-process-1.bg-white .process-info-box
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-process-1.bg-white .process-info-box h4
@@ -985,7 +985,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-process-1.bg-black .process-info-box
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-process-1.bg-black .process-info-box h4
@@ -1163,7 +1163,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-team-1.bg-white .cbp-item .cbp-caption-activeWrap
 {
-    background: rgb(176, 153, 128);
+    background: #1b1146;
 }
 
 .block-team-1.bg-white .cbp-item .cbp-caption-activeWrap h5
@@ -1184,7 +1184,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 .block-team-1.bg-white .our-skills .progress-bar
 {
     color: #fff;
-    background-color: #af997f;
+    background-color: #1b1146;
 }
 
 .block-team-1.bg-white .our-skills .progress-bar span
@@ -1205,7 +1205,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-team-1.bg-black .cbp-item .cbp-caption-activeWrap
 {
-    background: rgb(176, 153, 128);
+    background: #1b1146;
 }
 
 .block-team-1.bg-black .cbp-item .cbp-caption-activeWrap h5
@@ -1226,7 +1226,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 .block-team-1.bg-black .our-skills .progress-bar
 {
     color: #000;
-    background-color: #af997f;
+    background-color: #1b1146;
 }
 
 .block-team-1.bg-black .our-skills .progress-bar span
@@ -1393,7 +1393,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-news-1.bg-white .container-news .container-article-info .container-title
 {
-    background: #b09980;
+    background: #170d48;
 }
 
 .block-news-1.bg-white .container-news .container-article-info .container-title h4
@@ -1408,7 +1408,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-news-1.bg-white .container-news .container-article-info .container-button
 {
-    background: #b09980;
+    background: #170d48;
 }
 
 .block-news-1.bg-white .container-news .container-article-info .container-button span
@@ -1428,7 +1428,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-news-1.bg-black .container-news .container-article-info .container-title
 {
-    background: #b09980;
+    background: #170d48;
 }
 
 .block-news-1.bg-black .container-news .container-article-info .container-title h4
@@ -1443,7 +1443,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-news-1.bg-black .container-news .container-article-info .container-button
 {
-    background: #b09980;
+    background: #170d48;
 }
 
 .block-news-1.bg-black .container-news .container-article-info .container-button span
@@ -2252,7 +2252,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-contact-1.bg-white .tab-content form .form-group
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-contact-1.bg-white .tab-content form.success .form-group.button-container
@@ -2287,7 +2287,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-contact-1.bg-white .tab-content form .form-group:after
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-contact-1.bg-white .tab-content form .form-group input
@@ -2325,7 +2325,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 .block-contact-1.bg-white .tab-content .map-wrapper .button-description .content-visible,
 .block-contact-1.bg-white .tab-content .map-wrapper .button-description .content-hidden
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-contact-1.bg-white .tab-content .map-wrapper .container-info
@@ -2335,7 +2335,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-contact-1.bg-white .tab-content .map-wrapper .container-info ul li h5
 {
-    color: #af997f;
+    color: #1b1146;
 }
 
 .block-contact-1.bg-white .tab-content .map-wrapper .container-info ul li p
@@ -2345,7 +2345,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-contact-1.bg-white .tab-content .map-wrapper .container-info ul li a
 {
-    color: #af997f;
+    color: #1b1146;
 }
 
 .block-contact-1.bg-white .tab-content .row .col-xs-4 .container-social-item .container-icon
@@ -2360,7 +2360,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-contact-1.bg-white .tab-content .row .col-xs-4 .container-social-item .container-description
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-contact-1.bg-white .tab-content .row .col-xs-4 .container-social-item .container-description a h5
@@ -2392,7 +2392,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-contact-1.bg-black .tab-content form .form-group
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-contact-1.bg-black .tab-content form.success .form-group.button-container
@@ -2427,7 +2427,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-contact-1.bg-black .tab-content form .form-group:after
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-contact-1.bg-black .tab-content form .form-group input
@@ -2491,7 +2491,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 .block-contact-1.bg-black .tab-content .map-wrapper .button-description .content-visible,
 .block-contact-1.bg-black .tab-content .map-wrapper .button-description .content-hidden
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-contact-1.bg-black .tab-content .map-wrapper .container-info
@@ -2501,7 +2501,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-contact-1.bg-black .tab-content .map-wrapper .container-info ul li h5
 {
-    color: #af997f;
+    color: #1b1146;
 }
 
 .block-contact-1.bg-black .tab-content .map-wrapper .container-info ul li p
@@ -2511,7 +2511,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-contact-1.bg-black .tab-content .map-wrapper .container-info ul li a
 {
-    color: #af997f;
+    color: #1b1146;
 }
 
 .block-contact-1.bg-black .tab-content .row .col-xs-4 .container-social-item .container-icon
@@ -2526,7 +2526,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-contact-1.bg-black .tab-content .row .col-xs-4 .container-social-item .container-description
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 .block-contact-1.bg-black .tab-content .row .col-xs-4 .container-social-item .container-description a h5
@@ -2708,7 +2708,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
     -webkit-transform: translateY(-50%);
             transform: translateY(-50%);
 
-    background: #af997f;
+    background: #1b1146;
 }
 
 #popup-close-button-1.active
@@ -2839,7 +2839,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
     opacity: .5;
     border-radius: 0;
-    background: #b09980;
+    background: #1a0f35;
 }
 
 .popup-showcase-style-1 .cbp-nav-pagination-active
@@ -2890,7 +2890,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
     -webkit-transition: all .6s cubic-bezier(.19, 1, .22, 1);
             transition: all .6s cubic-bezier(.19, 1, .22, 1);
 
-    background: #af997f;
+    background: #1b1146;
 }
 
 .popup-showcase-style-1 .button-description .content-visible
@@ -2992,7 +2992,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
     letter-spacing: .02em;
     text-transform: uppercase;
 
-    color: #af997f;
+    color: #1b1146;
 }
 
 .popup-showcase-style-1 .container-info ul li p
@@ -3010,7 +3010,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
     letter-spacing: .02em;
 
-    color: #af997f;
+    color: #1b1146;
 }
 
 

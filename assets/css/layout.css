@@ -140,7 +140,7 @@ blockquote.blockquote-default
     padding: 14px 40px;
 
     color: #4d4d4d;
-    border-left: 4px solid #af997f;
+    border-left: 4px solid #1b1146;
 }
 
 .content.bg-black blockquote.blockquote-default footer
@@ -286,8 +286,8 @@ ol.list-default > li
 
     opacity: 1;
     border: solid 2px transparent;
-    border-top-color: #af997f;
-    border-left-color: #af997f;
+    border-top-color: #1b1146;
+    border-left-color: #1b1146;
     border-radius: 100%;
 }
 
@@ -440,7 +440,7 @@ ol.list-default > li
 .navigation-main ul li span:hover,
 .navigation-main ul li.current a
 {
-    color: rgb(176,153,128);
+    color: #1b1146;
 }
 
 .navigation-main ul li .dropdown-menu
@@ -476,7 +476,7 @@ ol.list-default > li
 .navigation-main ul li .dropdown-menu a:hover,
 .navigation-main ul li.dropdown.open span
 {
-    color: rgb(176,153,128);
+    color: #1b1146;
 }
 
 
@@ -694,7 +694,7 @@ ol.list-default > li
 .content.bg-gold
 {
     color: #fff;
-    background: rgb(176,153,128);
+    background: #1b1146;
 }
 
 .content.bg-parallax
@@ -1365,7 +1365,7 @@ ul.tab-navigation-default li:last-child
 
 ul.tab-navigation-default li.active
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 ul.tab-navigation-default a
@@ -1491,7 +1491,7 @@ ul.tab-navigation-default a
     text-align: left;
 
     color: #fff;
-    background-color: #af997f;
+    background-color: #1b1146;
     box-shadow: none;
 }
 
@@ -1641,7 +1641,7 @@ a.button-default:before
     content: '';
 
     border-radius: 100px;
-    background: #af997f;
+    background: #1b1146;
 }
 
 a.button-default.edged:before
@@ -1669,7 +1669,7 @@ a.button-default:hover:before
 
 a.button-default.inverted:hover:before
 {
-    border: 1px solid #af997f;
+    border: 1px solid #1b1146;
 }
 
 a.button-default:after
@@ -1704,7 +1704,7 @@ a.button-default.edged:after
 
 a.button-default.inverted:after
 {
-    background: #af997f;
+    background: #1b1146;
 }
 
 a.button-default:hover:after
@@ -1772,7 +1772,7 @@ a.button-default span
     text-align: center;
 
     color: #fff;
-    background: #af997f;
+    background: #1b1146;
 }
 
 .pricing-table-default.featured
@@ -1832,7 +1832,7 @@ a.button-default span
 
 .pricing-table-default .button-default:hover:before
 {
-    border-color: #af997f;
+    border-color: #1b1146;
 }
 
 
@@ -1848,7 +1848,7 @@ a.button-default span
 
     padding-bottom: 100%;
 
-    background: #af997f;
+    background: #1b1146;
 
     -webkit-backface-visibility: hidden;
             backface-visibility: hidden;
