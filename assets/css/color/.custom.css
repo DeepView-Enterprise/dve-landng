@@ -26,6 +26,7 @@
 :root {
     --base_color: #1d1631;
     --text_color: rgb(229, 225, 224);
+    --highlight_color: #acd570;
   }
 
 
@@ -190,7 +191,7 @@ a.button-default.inverted:after
 
 .block-contact-1 .tab-content form .form-group:after
 {
-    background: var(--base_color)  !important;
+    background: var(--highlight_color)  !important;
 }
 
 .block-contact-1 .tab-content .map-wrapper .button-description .content-visible,

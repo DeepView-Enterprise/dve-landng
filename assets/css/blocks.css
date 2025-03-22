@@ -1887,14 +1887,14 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
     text-transform: uppercase;
 }
 
-.block-contact-1 .tab-content .map-wrapper a[href^='http://maps.google.com/maps']
+/* .block-contact-1 .tab-content .map-wrapper a[href^='http://maps.google.com/maps']
 {
     display: none !important;
 }
 .block-contact-1 .tab-content .map-wrapper a[href^='https://maps.google.com/maps']
 {
     display: none !important;
-}
+} */
 
 .block-contact-1 .tab-content .map-wrapper .gmnoprint a,
 .gmnoprint span,

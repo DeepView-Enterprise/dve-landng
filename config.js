@@ -85,16 +85,6 @@
 
 
 
-        // GOOGLE MAPS API KEY
-        var option_google_maps_api_key = "AIzaSyBibXe8KqGeC6orbxHN_32X2drJUN8WokWXE";
-
-
-
-        // GOOGLE MAPS COORDINATE
-        var option_google_maps_coordinates = [40.761418, -73.977622];
-
-
-
 /** 3. HERO CONFIG
 *******************************************************************/
 
